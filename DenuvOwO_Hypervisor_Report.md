@@ -16,9 +16,6 @@ The "hypervisor" shipped with this FitGirl repack is **DenuvOwO** — a Denuvo a
 
 The crack works by loading an unsigned kernel driver at ring -1 (hypervisor privilege level), placing the entire OS — including Denuvo — inside a virtual machine the crack controls. From this position it intercepts and spoofs every check Denuvo performs: CPUID, MSR reads, syscalls, timing, and memory integrity.
 
-**Build author:** "Andrea" (PDB paths leak full local path)  
-**Build environment:** `C:\Users\Andrea\Documents\Denuvo\hypervisor\`
-
 ---
 
 ## 2. File Inventory
