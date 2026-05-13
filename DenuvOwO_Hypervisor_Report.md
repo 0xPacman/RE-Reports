@@ -1,5 +1,5 @@
 # DenuvOwO Hypervisor — Full Reverse Engineering Report
-**Target:** Assassin's Creed Shadows (FitGirl Repack)  https://fitgirl-repacks.site/assassins-creed-shadows/
+**Target:** Assassin's Creed Shadows [(FitGirl Repack)](https://fitgirl-repacks.site/assassins-creed-shadows/)
 **Date:** 2026-05-13  
 **Analyst:** 0xPacman  
 **Tools:** radare2, objdump, readelf, strings, file (WSL Ubuntu)
