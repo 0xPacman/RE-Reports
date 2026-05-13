@@ -39,13 +39,13 @@ PDB paths embedded in every binary expose the developer's full local path:
 
 ```
 SimpleSvm.sys:
-  C:\Users\Andrea\Documents\Denuvo\hypervisor\HypervisorSource\x64\Release\SimpleSvm.pdb
+  C:\Users\xxxxx\Documents\Denuvo\hypervisor\HypervisorSource\x64\Release\SimpleSvm.pdb
 
 hyperhv.dll:
-  C:\Users\Andrea\Documents\Denuvo\hypervisor\IntelTest2.1\build\bin\release\hyperhv.pdb
+  C:\Users\xxxxx\Documents\Denuvo\hypervisor\IntelTest2.1\build\bin\release\hyperhv.pdb
 
 hyperevade.dll:
-  C:\Users\Andrea\Documents\Denuvo\hypervisor\IntelTest2.1\build\bin\release\hyperevade.pdb
+  C:\Users\xxxxx\Documents\Denuvo\hypervisor\IntelTest2.1\build\bin\release\hyperevade.pdb
 ```
 
 Two separate project trees: `HypervisorSource` (AMD) and `IntelTest2.1` (Intel).  
