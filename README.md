@@ -2,7 +2,7 @@
 
 > **Trust but verify.**
 >
-> Source: https://en.wikipedia.org/wiki/Trust,_but_verify
+> [Story](https://en.wikipedia.org/wiki/Trust,_but_verify)
 
 This repository contains reverse engineering reports focused on analyzing cracks and other untrusted, unlicensed, or unknown-source software.
 
